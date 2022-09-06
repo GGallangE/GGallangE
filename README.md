@@ -1,4 +1,4 @@
-### 백준 현행 상태
+### 하루 한개씩 푸는 백준
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGallangE&show_icons=true&theme=buefy)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kimdg1122)](https://solved.ac/kimdg1122)
 
